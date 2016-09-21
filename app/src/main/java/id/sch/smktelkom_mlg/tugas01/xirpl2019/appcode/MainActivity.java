@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main;
+        setContentView(R.layout.activity_main);
 
         Button exit = (Button) findViewById(R.id.exit);
         exit.setOnClickListener(new View.OnClickListener() {
