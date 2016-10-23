@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="id.sch.smktelkom_mlg.tugas01.xirpl2019.appcode.OneFragment">
+    tools:context="id.sch.smktelkom_mlg.tugas01.xirpl2019.appcode.TwoFragment">
 
     <TextView
         android:layout_width="wrap_content"
