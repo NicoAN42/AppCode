@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppCode</string>
+    <string name="one" />
 </resources>
