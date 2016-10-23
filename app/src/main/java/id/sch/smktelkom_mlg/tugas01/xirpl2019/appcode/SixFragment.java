@@ -7,9 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-public class FiveFragment extends Fragment {
+public class SixFragment extends Fragment {
 
-    public FiveFragment() {
+    public SixFragment() {
         // Required empty public constructor
     }
 
@@ -22,6 +22,6 @@ public class FiveFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_five, container, false);
+        return inflater.inflate(R.layout.fragment_six, container, false);
     }
 }
